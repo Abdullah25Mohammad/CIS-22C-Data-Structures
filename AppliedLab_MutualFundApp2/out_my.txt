@@ -1,0 +1,166 @@
+Welcome to Mutual Fund InvestorTrack (TM)!
+
+Please select from the following options:
+
+A. Purchase a Fund
+B. Sell a Fund
+C. Display Your Current Funds
+X. Exit
+
+Enter your choice: 
+You don't have any funds to display at this time.
+
+Please select from the following options:
+
+A. Purchase a Fund
+B. Sell a Fund
+C. Display Your Current Funds
+X. Exit
+
+Enter your choice: 
+Please select from the options below: 
+
+1. Total Bond Market Index Admiral Shares
+VBTLX
+Share Price: $11.61
+2. Intermediate-Term Investment-Grade
+VFICX
+Share Price: $10.64
+3. Mid-Cap Index Admiral Shares
+VIMAX
+Share Price: $230.09
+4. Municipal Money Market
+VMSXX
+Share Price: $1.00
+5. Total Stock Market Index Admiral Shares
+VTSAX
+Share Price: $86.49
+6. International Growth
+VWIGX
+Share Price: $44.20
+7. U.S. Growth
+VWUSX
+Share Price: $62.41
+
+Enter your choice: (1-7): 
+Enter the number of shares to purchase: 
+Please select from the following options:
+
+A. Purchase a Fund
+B. Sell a Fund
+C. Display Your Current Funds
+X. Exit
+
+Enter your choice: 
+Please select from the options below: 
+
+1. Total Bond Market Index Admiral Shares
+VBTLX
+Share Price: $11.61
+2. Intermediate-Term Investment-Grade
+VFICX
+Share Price: $10.64
+3. Mid-Cap Index Admiral Shares
+VIMAX
+Share Price: $230.09
+4. Municipal Money Market
+VMSXX
+Share Price: $1.00
+5. Total Stock Market Index Admiral Shares
+VTSAX
+Share Price: $86.49
+6. International Growth
+VWIGX
+Share Price: $44.20
+7. U.S. Growth
+VWUSX
+Share Price: $62.41
+
+Enter your choice: (1-7): 
+Enter the number of shares to purchase: 
+Please select from the following options:
+
+A. Purchase a Fund
+B. Sell a Fund
+C. Display Your Current Funds
+X. Exit
+
+Enter your choice: 
+View Your Mutual Funds By:
+
+1. Name
+2. Value
+
+Enter your choice (1 or 2): 
+Total Bond Market Index Admiral Shares
+VBTLX
+Share Price: $11.61
+Total Shares: 100.0
+Value: $1,161.00
+
+Mid-Cap Index Admiral Shares
+VIMAX
+Share Price: $230.09
+Total Shares: 10.0
+Value: $2,300.90
+
+
+Please select from the following options:
+
+A. Purchase a Fund
+B. Sell a Fund
+C. Display Your Current Funds
+X. Exit
+
+Enter your choice: 
+You own the following mutual funds: 
+Mid-Cap Index Admiral Shares
+VIMAX
+Share Price: $230.09
+Total Shares: 10.0
+Value: $2,300.90
+
+Total Bond Market Index Admiral Shares
+VBTLX
+Share Price: $11.61
+Total Shares: 100.0
+Value: $1,161.00
+
+
+Enter the name of the fund to sell: Enter the number of shares to sell or "all" to sell everything: 
+Please select from the following options:
+
+A. Purchase a Fund
+B. Sell a Fund
+C. Display Your Current Funds
+X. Exit
+
+Enter your choice: 
+View Your Mutual Funds By:
+
+1. Name
+2. Value
+
+Enter your choice (1 or 2): 
+Mid-Cap Index Admiral Shares
+VIMAX
+Share Price: $230.09
+Total Shares: 1.0
+Value: $230.09
+
+Total Bond Market Index Admiral Shares
+VBTLX
+Share Price: $11.61
+Total Shares: 100.0
+Value: $1,161.00
+
+
+Please select from the following options:
+
+A. Purchase a Fund
+B. Sell a Fund
+C. Display Your Current Funds
+X. Exit
+
+Enter your choice: 
+Goodbye!

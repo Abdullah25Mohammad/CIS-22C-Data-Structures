@@ -1,0 +1,17 @@
+if (node.left == null || node.right == null) {
+            return node;
+        }
+        
+        if (cmp.compare(data, node.left.data) == 0) {
+            node.left = null;
+            return node;
+        } else if (cmp.compare(data, node.right.data) == 0) {
+            node.right = null;
+            return node;
+        }
+
+        if (cmp.compare(data, node.data) <= 0) {
+            return remove(data, node.left, cmp);
+        } else {
+            return remove(data, node.right, cmp);
+        }
